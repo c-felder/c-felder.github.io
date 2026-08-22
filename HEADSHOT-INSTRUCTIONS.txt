@@ -1,0 +1,2 @@
+Add your professional headshot here as headshot.jpg. Then replace the placeholder div in index.html with:
+<img class="headshot-placeholder" src="headshot.jpg" alt="Christopher Felder">
